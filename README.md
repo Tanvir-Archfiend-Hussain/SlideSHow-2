@@ -1,5 +1,7 @@
-# SlideSHow-2
-<img src="https://lessonsfromhome.co/wp-content/uploads/2020/12/Untitled-design-22-min.jpg" alt="" />
+# Slideshow HTML | CSS | JavaScript
+
+<img src="" alt="" />
+
 This project was designed for me to learn how to link HTML files and work with videos and CSS.
 
 JAVASCRIPT 
